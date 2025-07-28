@@ -100,7 +100,7 @@
     "@types/postcss-url": "^10.0.0",
     "@types/react": "^18.3.20",
     "@types/react-dom": "^18.3.6",
-    "@types/react-reconciler": "^0.28.9",
+    "@types/react-reconciler": "^0.32.0",
     "@types/resolve": "^1.20.6",
     "@types/sass": "1.43.1",
     "@types/tapable": "^1",
