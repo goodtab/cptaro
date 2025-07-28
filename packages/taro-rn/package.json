@@ -45,7 +45,7 @@
     "prop-types": "^15.8.1"
   },
   "devDependencies": {
-    "@babel/core": "^7.24.4",
+    "@babel/core": "^7.28.0",
     "@babel/parser": "^7.24.4",
     "@babel/preset-env": "^7.24.4",
     "@babel/traverse": "^7.24.4",
