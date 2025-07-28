@@ -69,7 +69,7 @@
     "prettier": "^2.8.8",
     "rollup-plugin-copy": "workspace:*",
     "solid-js": "^1.8.17",
-    "terser": "^5.31.1",
+    "terser": "^5.43.1",
     "ts-node": "^10.9.2",
     "tsconfig-paths": "^3.15.0",
     "tslib": "^2.6.3",
