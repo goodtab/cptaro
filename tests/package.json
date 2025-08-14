@@ -33,7 +33,7 @@
     "copy-webpack-plugin": "^12.0.2",
     "memfs": "^4.9.1",
     "globby": "^12.0.2",
-    "@babel/core": "^7.24.4",
+    "@babel/core": "^7.28.3",
     "acorn": "^8.11.3",
     "acorn-walk": "^8.3.2",
     "vue-loader": "^17.0.0",

@@ -30,7 +30,7 @@
     "taro-css-to-react-native": "workspace:*"
   },
   "devDependencies": {
-    "@babel/core": "7.24.4",
+    "@babel/core": "7.28.3",
     "@types/babel__core": "7.20.5",
     "babel-plugin-syntax-jsx": "6.18.0"
   },

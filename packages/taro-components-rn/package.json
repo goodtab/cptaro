@@ -41,7 +41,7 @@
   "devDependencies": {
     "@react-native-community/slider": "4.4.2",
     "@react-native-picker/picker": "2.6.1",
-    "@babel/core": "^7.24.4",
+    "@babel/core": "^7.28.3",
     "@babel/preset-env": "^7.24.4",
     "@react-native/babel-preset": "^0.73.18",
     "@testing-library/jest-native": "^5.4.2",
