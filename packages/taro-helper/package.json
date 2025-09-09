@@ -60,7 +60,7 @@
     "lodash": "^4.17.21",
     "require-from-string": "^2.0.2",
     "resolve": "^1.22.8",
-    "supports-hyperlinks": "^3.0.0"
+    "supports-hyperlinks": "^4.1.2"
   },
   "devDependencies": {
     "@tarojs/taro": "workspace:*",
