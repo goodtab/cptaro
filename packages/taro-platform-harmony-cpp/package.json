@@ -34,7 +34,7 @@
     "tsx": "ts-node --skipIgnore"
   },
   "dependencies": {
-    "@babel/core": "^7.24.7",
+    "@babel/core": "^7.28.4",
     "@babel/preset-env": "^7.24.4",
     "@tarojs/parse-css-to-stylesheet": "^1.1.8",
     "@tarojs/react": "workspace:*",

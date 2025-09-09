@@ -39,7 +39,7 @@
     "url": "https://github.com/NervJS/taro/issues"
   },
   "dependencies": {
-    "@babel/core": "^7.14.5",
+    "@babel/core": "^7.28.4",
     "@tarojs/components": "workspace:*",
     "@tarojs/components-react": "workspace:*",
     "@tarojs/runtime": "workspace:*",

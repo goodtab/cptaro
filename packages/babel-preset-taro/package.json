@@ -42,7 +42,7 @@
     "core-js": "^3.36.1"
   },
   "devDependencies": {
-    "@babel/core": "^7.24.4",
+    "@babel/core": "^7.28.4",
     "@babel/preset-react": "^7.24.1",
     "@prefresh/babel-plugin": "^0.5.1",
     "@tarojs/taro-rn": "workspace:*",
